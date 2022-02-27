@@ -1,0 +1,2 @@
+# kait_jetracer_models
+jetracerで利用するモデルの置き場所
